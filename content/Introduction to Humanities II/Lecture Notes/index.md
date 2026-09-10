@@ -17,3 +17,5 @@ Week 3 9.1 Tuesday **CLASS CANCELLED**
 [[Week 3 9.3 Thursday]]
 
 [[Week 4 9.8 Tuesday]]
+
+[[Week 4 9.10 Thursday]]
